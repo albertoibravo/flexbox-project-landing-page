@@ -1,2 +1,2 @@
 # flexbox-project-landing-page
-landing page for flexbox foundations
+Landing page for flexbox foundations
