@@ -1,0 +1,38 @@
+header{
+    background-color:  #1f2937;
+       }
+.header1{
+    font-size: 48px;
+    color:#f9faf8;
+    font-weight: bolder;
+    }
+.header2{
+    font-size:18px;
+    color:#e5e7eb;
+}
+.header_logo_text{
+    font-size:24px;
+    color:#f9faf8;
+}
+ button{
+    background-color: #3882f6;
+    color:#e5e7eb;
+    height: 50px;
+    width: 300px;
+    font-weight: bold;
+  }
+.header{
+    display:flex;
+    flex-direction: column;
+}
+
+.header_left{
+    margin-left: 30px;
+}
+.header_center{
+    display:flex;
+    flex-direction: column;
+    margin-top: 165px;
+    align-self:center;
+}
+
